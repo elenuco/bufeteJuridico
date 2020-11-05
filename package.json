@@ -1,0 +1,24 @@
+{
+  "name": "bufetejuridico",
+  "version": "1.0.0",
+  "description": "prueba de creativa consultores",
+  "main": "index.js",
+  "dependencies": {
+    "cypress": "^5.5.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "cypress": "cypress open",
+    "test": "cypress run"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/elenuco/bufeteJuridico.git"
+  },
+  "author": "Evelyn Campos Umanzor",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/elenuco/bufeteJuridico/issues"
+  },
+  "homepage": "https://github.com/elenuco/bufeteJuridico#readme"
+}
